@@ -37,9 +37,13 @@
 
     git commit -a
 
+Для создания commit c комментарием используют команду:
+
+    git commit -m "commit message"
+    
 Для одновременного добавления содержимого, сохранения данных с комментарием к commit используют команду:
 
-    git commit -am
+    git commit -am "commit message"
 
 
 ## Журнал изменений
