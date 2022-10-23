@@ -123,3 +123,7 @@
 
     git branch - <branch_name>
 
+### Conflicts
+
+Information about conflicts...
+
